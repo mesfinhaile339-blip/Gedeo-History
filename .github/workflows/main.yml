@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="am">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>የጌዴኦ ህዝብ - Gedeo People</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background-color: #f4f7f6; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; }
+        .container { background: white; padding: 40px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); text-align: center; border-top: 8px solid #1a5f7a; max-width: 400px; }
+        h1 { color: #1a5f7a; font-size: 24px; }
+        p { font-size: 18px; line-height: 1.6; color: #444; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>እንኳን ወደ ጌዴኦ ህዝብ ገጽ በደህና መጡ!</h1>
+        <p>ይህ ገጽ ስለ ጌዴኦ ህዝብ ባህል፣ ታሪክ እና ማንነት መረጃ የሚሰጥ ነው።</p>
+        <p>በቅርቡ ሙሉ መረጃዎችን ይዘን እንመጣለን።</p>
+    </div>
+</body>
+</html>
